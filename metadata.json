@@ -1,0 +1,7 @@
+{
+  "name": "Student Attendance Manager",
+  "description": "Enterprise-grade online Student Attendance Management System for schools with role-based access control, attendance registers, live statistics, and audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
